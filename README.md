@@ -26,8 +26,7 @@ Ikuti langkah-langkah berikut untuk menjalankan PANTAU.ID di komputer lokal Anda
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/username-anda/pantau-id.git](https://github.com/username-anda/pantau-id.git)
-   cd pantau-id
+   git clone https://github.com/Tanjidoru/ProjectTier0.git
 
 2. **Install Dependencies PHP (Composer)** 
     composer install
