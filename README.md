@@ -50,3 +50,7 @@ Ikuti langkah-langkah berikut untuk menjalankan PANTAU.ID di komputer lokal Anda
 
 7. **Jalankan Local Server**
     php artisan serve
+
+8. **Progress Saat Ini**
+   -Membuat landing page
+   -Membuat peta interaktif 
