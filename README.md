@@ -52,5 +52,5 @@ Ikuti langkah-langkah berikut untuk menjalankan PANTAU.ID di komputer lokal Anda
     php artisan serve
 
 8. **Progress Saat Ini**
-   -Membuat landing page
-   -Membuat peta interaktif 
+   <br>-Membuat landing page
+   <br>-Membuat peta interaktif 
